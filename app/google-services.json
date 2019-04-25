@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "782781419309",
+    "firebase_url": "https://marathon-tracker-49c54.firebaseio.com",
+    "project_id": "marathon-tracker-49c54",
+    "storage_bucket": "marathon-tracker-49c54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782781419309:android:932ae6cf8920162a",
+        "android_client_info": {
+          "package_name": "uk.marathon.com.marathontracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782781419309-jg85nhc4lujvu05lif0lllbhk6vvi11g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.marathon.com.marathontracker",
+            "certificate_hash": "7812a288429c6e29f1f844d9d0658eb4bdd8236b"
+          }
+        },
+        {
+          "client_id": "782781419309-5squvk19s9lu2jc5njri72f8ckrs1sf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEC5BAr4ym6ZhQ0ENwWN9AjOOu3kqIsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782781419309-5squvk19s9lu2jc5njri72f8ckrs1sf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
